@@ -1,4 +1,3 @@
-use std::cmp::Ordering;
 use rand::Rng;
 
 pub struct Guess {
